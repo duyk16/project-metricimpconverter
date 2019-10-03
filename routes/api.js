@@ -9,7 +9,7 @@
 'use strict';
 
 const expect = require('chai').expect;
-const ConvertHandler = require('../controllers/convert.controller.js/index.js');
+const ConvertHandler = require('../controllers/convertHandler');
 
 module.exports = function (app) {
   
